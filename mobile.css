@@ -2,7 +2,7 @@
 
 
 main {
-   width: 390px;
+   width: 94vw;
 }
 
 .video {
@@ -15,9 +15,9 @@ main {
 }
 
 div > iframe {
-    width: 370px;
+    width: 88vw;
 }
 
 .imagem {
-    width: 370px;
+    width: 90vw;
 }

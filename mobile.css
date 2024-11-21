@@ -1,0 +1,23 @@
+@charset 'UTF-8';
+
+
+main {
+   width: 390px;
+}
+
+.video {
+   position: absolute;
+
+   position: relative;
+   left: 3%;
+   right: 0%;
+   
+}
+
+div > iframe {
+    width: 370px;
+}
+
+.imagem {
+    width: 370px;
+}
